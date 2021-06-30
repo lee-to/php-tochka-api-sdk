@@ -1,3 +1,5 @@
+[SDK для версии API 2](https://github.com/lee-to/php-tochka-api-v2-sdk)
+
 # Tochka API client for PHP
 
 Tochka bank API client for PHP
